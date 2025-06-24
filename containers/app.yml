@@ -50,7 +50,7 @@ env:
 
   ## TODO: The domain name this Discourse instance will respond to
   ## Required. Discourse will not work with a bare IP number.
-  DISCOURSE_HOSTNAME: 'community.vitalitapp.com'
+  DISCOURSE_HOSTNAME: 'community-prod.colakin.com'
 
   ## Uncomment if you want the container to be started with the same
   ## hostname (-h option) as specified above (default "$hostname-$config")
